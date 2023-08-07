@@ -43,7 +43,7 @@
 .slideshow-container {
     max-width: 100%;
     height: 100px;
-    position: fixed;
+    position: overlay;
     margin: auto;
 }
 
